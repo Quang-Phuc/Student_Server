@@ -1,0 +1,6 @@
+entity: CategoryEntity
+items:
+  category_1:
+    name: category_1
+  category_2:
+    name: category_2

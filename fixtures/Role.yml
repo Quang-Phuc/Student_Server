@@ -1,0 +1,8 @@
+entity: RoleEntity
+items:
+  role_admin:
+    id: 1
+    name: admin
+  role_client:
+    id: 2
+    name: client

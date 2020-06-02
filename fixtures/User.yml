@@ -1,0 +1,8 @@
+entity: UserEntity
+items:
+  admin:
+    name: admin
+    email: admin@gmail.com
+    password: Aa@123456
+    role: 1
+    isActive: true

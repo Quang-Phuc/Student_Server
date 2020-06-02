@@ -1,0 +1,7 @@
+apps:
+  - script   : npm run start:prod
+    name     : 'student-document-api'
+    exec_mode: fork
+    listen_timeout : 3000
+    env:
+      PORT: 5000

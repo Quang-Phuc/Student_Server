@@ -1,0 +1,16 @@
+{
+  "type": "mysql",
+  "host": "localhost",
+  "port": 3306,
+  "username": "username",
+  "password": "password",
+  "database": "student_document",
+  "synchronize": false,
+  "entities": ["dist/src/**/*.entity{.js,.ts}"],
+  "migrations": ["dist/src/migration/**/*{.js,.ts}"],
+  "subscribers": ["dist/src/dist/subscriber/**/*{.js,.ts}"],
+  "charset": "utf8mb4",
+  "cli": {
+    "migrationsDir": "src/migration"
+  }
+}
