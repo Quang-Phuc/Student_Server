@@ -1,0 +1,191 @@
+entity: CityEntity
+items:
+  items_1:
+    id: 1
+    name: Bà Rịa-Vũng Tàu
+  items_2:
+    id: 2
+    name: Bạc Liêu
+  items_3:
+    id: 3
+    name: Bắc Kạn
+  items_4:
+    id: 4
+    name: Bắc Giang
+  items_5:
+    id: 5
+    name: Bắc Ninh
+  items_6:
+    id: 6
+    name: Bến Tre
+  items_7:
+    id: 7
+    name: Bình Dương
+  items_8:
+    id: 8
+    name: Bình Định
+  items_9:
+    id: 9
+    name: Bình Phước
+  items_10:
+    id: 10
+    name: Bình Thuận
+  items_11:
+    id: 11
+    name: Cà Mau
+  items_12:
+    id: 12
+    name: Cao Bằng
+  items_13:
+    id: 13
+    name: Cần Thơ (TP)
+  items_14:
+    id: 14
+    name: Đà Nẵng (TP)
+  items_15:
+    id: 15
+    name: Đắk Lắk
+  items_16:
+    id: 16
+    name: Đắk Nông
+  items_17:
+    id: 17
+    name: Điện Biên
+  items_18:
+    id: 18
+    name: Đồng Nai
+  items_19:
+    id: 19
+    name: Đồng Tháp
+  items_20:
+    id: 20
+    name: Gia Lai
+  items_21:
+    id: 21
+    name: Hà Giang
+  items_22:
+    id: 22
+    name: Hà Nam
+  items_23:
+    id: 23
+    name: Hà Nội (TP)
+  items_24:
+    id: 24
+    name: Hà Tây
+  items_25:
+    id: 25
+    name: Hà Tĩnh
+  items_26:
+    id: 26
+    name: Hải Dương
+  items_27:
+    id: 27
+    name: Hải Phòng (TP)
+  items_28:
+    id: 28
+    name: Hòa Bình
+  items_29:
+    id: 29
+    name: Hồ Chí Minh (TP)
+  items_30:
+    id: 30
+    name: Hậu Giang
+  items_31:
+    id: 31
+    name: Hưng Yên
+  items_32:
+    id: 32
+    name: Khánh Hòa
+  items_33:
+    id: 33
+    name: Kiên Giang
+  items_34:
+    id: 34
+    name: Kon Tum
+  items_35:
+    id: 35
+    name: Lai Châu
+  items_36:
+    id: 36
+    name: Lào Cai
+  items_37:
+    id: 37
+    name: Lạng Sơn
+  items_38:
+    id: 38
+    name: Lâm Đồng
+  items_39:
+    id: 39
+    name: Long An
+  items_40:
+    id: 40
+    name: Nam Định
+  items_41:
+    id: 41
+    name: Nghệ An
+  items_42:
+    id: 42
+    name: Ninh Bình
+  items_43:
+    id: 43
+    name: Ninh Thuận
+  items_44:
+    id: 44
+    name: Phú Thọ
+  items_45:
+    id: 45
+    name: Phú Yên
+  items_46:
+    id: 46
+    name: Quảng Bình
+  items_47:
+    id: 47
+    name: Quảng Nam
+  items_48:
+    id: 48
+    name: Quảng Ngãi
+  items_49:
+    id: 49
+    name: Quảng Ninh
+  items_50:
+    id: 50
+    name: Quảng Trị
+  items_51:
+    id: 51
+    name: Sóc Trăng
+  items_52:
+    id: 52
+    name: Sơn La
+  items_53:
+    id: 53
+    name: Tây Ninh
+  items_54:
+    id: 54
+    name: Thái Bình
+  items_55:
+    id: 55
+    name: Thái Nguyên
+  items_56:
+    id: 56
+    name: Thanh Hóa
+  items_57:
+    id: 57
+    name: Thừa Thiên - Huế
+  items_58:
+    id: 58
+    name: Tiền Giang
+  items_59:
+    id: 59
+    name: Trà Vinh
+  items_60:
+    id: 60
+    name: Tuyên Quang
+  items_61:
+    id: 61
+    name: Vĩnh Long
+  items_62:
+    id: 62
+    name: Vĩnh Phúc
+  items_63:
+    id: 63
+    name: Yên Bái
