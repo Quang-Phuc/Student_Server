@@ -46,7 +46,7 @@
     "class-validator": "^0.11.0",
     "dotenv": "^8.2.0",
     "glob": "^7.1.6",
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "hummus": "^1.0.108",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.15",
